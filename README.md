@@ -1,2 +1,2 @@
 # Cadastro
-pagina para cadastro basico
+pagina para cadastro simples para testes 
